@@ -1,6 +1,4 @@
-# Hi, I'm Huynh Thanh Loc 👋
-
-Frontend-leaning full-stack developer • Camera enthusiast • Chelsea fan
+# Hi, I'm Huynh Thanh Loc, Frontend-leaning full-stack developer • Camera enthusiast • Chelsea fan
 
 ## 👨‍💻 About Me
 - 🎓 Undergraduate at **Saigon University** (since 2021)  
@@ -12,18 +10,26 @@ Frontend-leaning full-stack developer • Camera enthusiast • Chelsea fan
 ## 🛠 Tech Stack
 
 ### Frontend
-- **React.js** / **Next.js** *(used most often)*
-- **Vue.js** / **Nuxt.js**
-- **Astro**
+| Icon | Technology | Notes |
+|:---:|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" loading="lazy" /> | **React.js** | Used most often |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" loading="lazy" /> | **Next.js** | Used most often |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" height="28" alt="Vue.js" loading="lazy" /> | **Vue.js** |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="28" height="28" alt="Nuxt.js" loading="lazy" /> | **Nuxt.js** |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="28" height="28" alt="Astro" loading="lazy" /> | **Astro** |  |
 
 ### Backend
-- **Spring Boot**
-- **NestJS** *(core)*
-- **PHP**
+| Icon | Technology | Notes |
+|:---:|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Spring Boot" loading="lazy" /> | **Spring Boot** |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="28" height="28" alt="NestJS" loading="lazy" /> | **NestJS** | Core |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" height="28" alt="PHP" loading="lazy" /> | **PHP** |  |
 
 ### Database
-- **PostgreSQL**
-- **MySQL**
+| Icon | Technology | Notes |
+|:---:|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL" loading="lazy" /> | **PostgreSQL** |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" loading="lazy" /> | **MySQL** |  |
 
 ## 🎯 Interests
 - ⚽ **Football** — Chelsea supporter since the epic 2012 UCL Final vs Bayern  
