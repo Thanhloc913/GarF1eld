@@ -4,8 +4,6 @@ Huynh Thanh Loc
 *"Code, capture, and create — every day."*
 
 - I'm Huynh Thanh Loc, a frontend-leaning full-stack developer and camera enthusiast.  
-- Undergraduate at **Saigon University** since 2021, expected to graduate by February 2026.  
-- High school: **Nguyễn Tất Thành**.  
 - Love crafting **modern web apps** and capturing everyday moments.  
 - Currently exploring **DaVinci Resolve** after years with **Adobe Premiere**.
 
