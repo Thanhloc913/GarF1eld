@@ -9,8 +9,6 @@ Huynh Thanh Loc
 - Love crafting **modern web apps** and capturing everyday moments.  
 - Currently exploring **DaVinci Resolve** after years with **Adobe Premiere**.
 
-Explore more on [GitHub](https://github.com/yourusername).
-
 ---
 
 **Skills**
@@ -31,4 +29,4 @@ Explore more on [GitHub](https://github.com/yourusername).
 ---
 
 **My Daily Blog**  
-[Blog](https://garf1eld.dev)
+[https://garf1eld.dev](https://garf1eld.dev)
