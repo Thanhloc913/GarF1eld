@@ -5,7 +5,7 @@ Huynh Thanh Loc
 
 - I'm Huynh Thanh Loc, a frontend-leaning full-stack developer and camera enthusiast.  
 - Love crafting **modern web apps** and capturing everyday moments.  
-- Currently exploring **DaVinci Resolve** after years with **Adobe Premiere**.
+- Currently exploring **DaVinci Resolve** after years with **Adobe Premiere**(Sony A6000).
 
 ---
 
@@ -13,8 +13,7 @@ Huynh Thanh Loc
 
 - **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Astro  
 - **Backend:** Spring Boot, NestJS, PHP  
-- **Databases:** PostgreSQL, MySQL  
-- **Tools:** Adobe Premiere, DaVinci Resolve, Sony A6000
+- **Databases:** PostgreSQL, MySQL
 
 ---
 
