@@ -22,8 +22,3 @@ Huynh Thanh Loc
 - ⚽ **Football** — Chelsea fan since the 2012 UCL Final vs Bayern 🏆  
 - 📸 **Photography** — Landscape & daily life  
 - 🎮 **Gaming** — LoL, CSGO, Genshin Impact, Honkai Star Rail *(Cerydra big fan)*
-
----
-
-**My Daily Blog**  
-[https://garf1eld.dev](https://garf1eld.dev)
